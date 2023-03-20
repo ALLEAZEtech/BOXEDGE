@@ -427,42 +427,42 @@ ol {
 .back.face {
   width: 200px;
   height: 130px;
-  background: #ffffff;
+  background: #444444;
   border-radius: 12px;
   transform: translateZ(-20px);
 }
 .front.face {
   width: 200px;
   height: 130px;
-  background: #ffffff;
+  background: #444444;
   border-radius: 12px;
   transform: translateZ(20px);
 }
 .left.face {
   width: 40px;
   height: 110px;
-  background: #ff8200;
+  background: #444444;
   border-radius: 0;
   transform: translateZ(-10px) translateY(10px) rotateY(90deg) scaleX(1.5);
 }
 .right.face {
   width: 40px;
   height: 110px;
-  background: #ff8200;
+  background: #444444;
   border-radius: 0;
   transform: translateZ(-20px) translateY(10px) translateX(200px) rotateY(90deg);
 }
 .top.face {
   width: 178px;
   height: 40px;
-  background: #ff8200;
+  background: #444444;
   border-radius: 0;
   transform: translateZ(-20px) translateX(10px) rotateX(-90deg);
 }
 .bottom.face {
   width: 178px;
   height: 40px;
-  background: #ff8200;
+  background: #444444;
   border-radius: 0;
   transform: translateZ(-20px) translateX(10px) translateY(130px) rotateX(-90deg);
 }
